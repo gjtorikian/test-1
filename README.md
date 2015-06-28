@@ -1,4 +1,4 @@
 # test
 test
 
-[Read more words!](/directory)
+[Read more words!](directory)
